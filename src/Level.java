@@ -3,7 +3,6 @@ import java.util.ArrayList;
 import java.util.Scanner;
 
 /**
- * 150119007 Ahmet Hakan Beşel  150119004 Semir Tatlı
  * Level class for create a levels from given text files
  */
 public class Level {
