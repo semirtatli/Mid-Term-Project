@@ -15,7 +15,6 @@ import javafx.scene.text.Text;
 import javafx.stage.Stage;
 
 /**
- * 150119007 Ahmet Hakan Beşel  150119004 Semir Tatlı
  * Main class of the game
  */
 public class Main extends Application {
