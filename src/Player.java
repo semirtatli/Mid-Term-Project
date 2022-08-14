@@ -1,5 +1,4 @@
 /**
- * 150119007 Ahmet Hakan Beşel  150119004 Semir Tatlı
  * Player class for storing completed levels
  */
 public class Player {
