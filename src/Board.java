@@ -20,7 +20,6 @@ import java.util.ArrayList;
 import java.util.Optional;
 
 /**
- * 150119007 Ahmet Hakan Beşel  150119004 Semir Tatlı
  * Board class for showing tiles in GridPane And includes required functions for
  * game playability
  */
