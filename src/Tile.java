@@ -7,7 +7,6 @@ import javafx.scene.shape.ArcType;
 import javafx.scene.shape.Rectangle;
 
 /**
- * 150119007 Ahmet Hakan Beşel  150119004 Semir Tatlı
  * Tile class for creating tiles
  * It draws tile on pane
  */
